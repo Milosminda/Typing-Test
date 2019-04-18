@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.card-body, .card-footer {
+	padding: 7px;
+}
+.thumb {
+	height: 200px;
+}
+#info {
+	display: none;
+}
